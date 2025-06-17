@@ -19,7 +19,7 @@
         <mxCell id="PTYHe5e2VTI8ffRm9s-s-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-41" target="PTYHe5e2VTI8ffRm9s-s-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PTYHe5e2VTI8ffRm9s-s-41" value="通知运维人员安全修复" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-41" value="工作小组协调人员进行修复" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="686" y="489" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PTYHe5e2VTI8ffRm9s-s-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-47" target="PTYHe5e2VTI8ffRm9s-s-41" edge="1">
@@ -54,7 +54,7 @@
         <mxCell id="PTYHe5e2VTI8ffRm9s-s-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-62" target="PTYHe5e2VTI8ffRm9s-s-64" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PTYHe5e2VTI8ffRm9s-s-62" value="报告应急响应指挥部" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-62" value="报告应急响应领导小组" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="686" y="915" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PTYHe5e2VTI8ffRm9s-s-64" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
