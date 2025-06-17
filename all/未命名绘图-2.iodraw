@@ -19,7 +19,7 @@
         <mxCell id="PTYHe5e2VTI8ffRm9s-s-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-41" target="PTYHe5e2VTI8ffRm9s-s-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="PTYHe5e2VTI8ffRm9s-s-41" value="工作小组协调人员进行修复" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-41" value="工作小组协调人员进行应急处置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="686" y="489" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PTYHe5e2VTI8ffRm9s-s-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-47" target="PTYHe5e2VTI8ffRm9s-s-41" edge="1">
@@ -108,8 +108,8 @@
         <mxCell id="DATuUDVUgsbxfOG1nxbz-2" value="报送数智科技集团、网信办和公安" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1008" y="915" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="DATuUDVUgsbxfOG1nxbz-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="683" y="913" width="60" height="30" as="geometry" />
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-8" value="&lt;div&gt;Ⅲ级、Ⅱ级、Ⅰ级&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="853" y="899" width="109" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
