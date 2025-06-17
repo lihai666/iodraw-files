@@ -93,11 +93,8 @@
         <mxCell id="k5ddmMsP2FDxsenI7jYN-31" value="上报网信办、公安" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1008" y="321" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="k5ddmMsP2FDxsenI7jYN-33" value="Ⅲ级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="887" y="203" width="34" height="18" as="geometry" />
-        </mxCell>
-        <mxCell id="k5ddmMsP2FDxsenI7jYN-36" value="Ⅰ级、Ⅱ级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
-          <mxGeometry x="924" y="321" width="70" height="18" as="geometry" />
+        <mxCell id="k5ddmMsP2FDxsenI7jYN-33" value="&lt;div&gt;Ⅲ级Ⅱ级、Ⅰ级&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="853" y="199" width="102" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
