@@ -1,0 +1,148 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" scale="1" border="0" version="24.7.17">
+  <diagram id="-exSWK_zpMvf81AAj4RE" name="第 1 页">
+    <mxGraphModel dx="1185" dy="747" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="#FFFFFF" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k5ddmMsP2FDxsenI7jYN-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-1" target="k5ddmMsP2FDxsenI7jYN-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-1" value="&lt;font style=&quot;font-size: 12px&quot;&gt;发生网络安全事件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="686" y="98" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5ddmMsP2FDxsenI7jYN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-31" target="PTYHe5e2VTI8ffRm9s-s-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-31" value="制定先期处置措施" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="588" y="357" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-41" target="PTYHe5e2VTI8ffRm9s-s-47" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-41" value="工作小组协调人员进行应急处置" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="686" y="489" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-47" target="PTYHe5e2VTI8ffRm9s-s-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="928" y="630" />
+              <mxPoint x="928" y="519" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-47" target="PTYHe5e2VTI8ffRm9s-s-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-47" value="评估处置结果" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="675" y="590" width="142" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-56" value="处置没有完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="828" y="564" width="90" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-57" target="PTYHe5e2VTI8ffRm9s-s-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-57" value="释放先期处置措施" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="686" y="711" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="PTYHe5e2VTI8ffRm9s-s-60" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="746" y="915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-60" value="检查业务运行状态" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="686" y="813" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" target="PTYHe5e2VTI8ffRm9s-s-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="746" y="975" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-64" value="应急响应结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="686" y="1038" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="PTYHe5e2VTI8ffRm9s-s-59" value="处置完成" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="678" y="673" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="k5ddmMsP2FDxsenI7jYN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="KxtQOH3mryY8A8LvF_aN-2" target="PTYHe5e2VTI8ffRm9s-s-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KxtQOH3mryY8A8LvF_aN-2" value="&lt;font style=&quot;font-size: 12px&quot;&gt;报告领导小组&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="784" y="357" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5ddmMsP2FDxsenI7jYN-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="k5ddmMsP2FDxsenI7jYN-9" target="PTYHe5e2VTI8ffRm9s-s-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5ddmMsP2FDxsenI7jYN-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="k5ddmMsP2FDxsenI7jYN-9" target="KxtQOH3mryY8A8LvF_aN-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k5ddmMsP2FDxsenI7jYN-9" target="k5ddmMsP2FDxsenI7jYN-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k5ddmMsP2FDxsenI7jYN-9" target="DATuUDVUgsbxfOG1nxbz-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5ddmMsP2FDxsenI7jYN-9" value="评估安全事件级别" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="675" y="205" width="142" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="k5ddmMsP2FDxsenI7jYN-16" value="Ⅳ级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="703" y="291" width="34" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="k5ddmMsP2FDxsenI7jYN-25" target="DATuUDVUgsbxfOG1nxbz-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="k5ddmMsP2FDxsenI7jYN-25" value="&lt;font style=&quot;font-size: 12px&quot;&gt;报告领导小组&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="964" y="161" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k5ddmMsP2FDxsenI7jYN-33" value="&lt;div&gt;Ⅲ级、Ⅱ级、Ⅰ级&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" parent="1" vertex="1">
+          <mxGeometry x="774" y="199" width="114" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-1" value="Ⅳ级" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="681" y="991" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DATuUDVUgsbxfOG1nxbz-2" target="PTYHe5e2VTI8ffRm9s-s-64" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1072" y="1068" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-2" value="报送数智科技集团、网信办和公安" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1012" y="925" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-8" value="&lt;div&gt;Ⅲ级、Ⅱ级、Ⅰ级&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="855" y="915" width="109" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DATuUDVUgsbxfOG1nxbz-9" target="PTYHe5e2VTI8ffRm9s-s-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1020" y="519" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-9" value="制定先期处置措施" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="964" y="254" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DATuUDVUgsbxfOG1nxbz-10" target="PTYHe5e2VTI8ffRm9s-s-41" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1200" y="519" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-10" value="上报市信息中心数智科技集团、网信办和公安" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1137" y="161" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DATuUDVUgsbxfOG1nxbz-21" target="DATuUDVUgsbxfOG1nxbz-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-21" value="报告领导小组" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="675" y="915" width="142" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="jplqsH4dj7TBxGxgMXTN-1" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 24px;&quot;&gt;数字苏州建设有限公司网络安全应急响应工作流程图&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="620" y="40" width="618" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
