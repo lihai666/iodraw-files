@@ -130,7 +130,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="DATuUDVUgsbxfOG1nxbz-10" value="上报市信息中心数智科技集团、网信办和公安" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="DATuUDVUgsbxfOG1nxbz-10" value="上报市信息中心、数智科技集团、网信办和公安" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1137" y="161" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="DATuUDVUgsbxfOG1nxbz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="DATuUDVUgsbxfOG1nxbz-21" target="DATuUDVUgsbxfOG1nxbz-2" edge="1">
